@@ -1,14 +1,14 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/rizkybaihaqy/rizkybaihaqy/master/README.md",
+  "title": "Rizky Muhammad Baihaqy",
+  "name": "Rizky Muhammad Baihaqy",
+  "ascii": "rizkybaihaqy",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "rizkybaihaqy",
+    "linkedin": "rizkybaihaqy"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "rizkybaihaqy123@gmail.com",
+  "ps1_hostname": "rizkybaihaqy",
   "ps1_username": "visitor",
   "repo": "https://github.com/Cveinnt/LiveTerm",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
